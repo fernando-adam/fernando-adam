@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fernando-adam
+- 👀 I’m interested in web and mobile development.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
