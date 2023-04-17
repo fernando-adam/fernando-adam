@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fernando-adam
-- 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👀 I’m interested in back-end.
+- 🌱 I’m currently working with C# and Angular.
